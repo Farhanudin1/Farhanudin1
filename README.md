@@ -8,6 +8,7 @@ I have a Bachelor's degree from Gunadarma University majoring in Computer System
 ![Logo](https://github.com/Farhanudin1/Farhanudin1/blob/5a1a3d052f4806f60f690d93dafc6bde488b78ba/dinaspertanianmakassar.jpeg)
 
 📫 How to reach me ...
++6282211824620 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 <!---
 Farhanudin1/Farhanudin1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
